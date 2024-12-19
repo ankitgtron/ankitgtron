@@ -33,7 +33,7 @@
 <!-- Snake -->
 <div align="center">
     
-  ![snake gif](github-snake.svg)
+  ![snake gif](https://github.com/ankitgtron/ankitgtron/blob/output/github-snake.svg)
 </div>
 
 
